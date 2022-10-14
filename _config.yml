@@ -1,6 +1,8 @@
 title: Yeti Tools
 description: De tools voor het bestuur
 baseurl: "/docs"
+permalink: pretty
+search_enabled: true
 lsi: false
 safe: true
 source: docs
