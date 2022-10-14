@@ -1,6 +1,6 @@
 lsi: false
 safe: true
-source: docs/
+source: docs
 incremental: false
 highlighter: rouge
 gist:
@@ -8,7 +8,6 @@ gist:
 kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
-
 defaults:
   - scope:
       path: "" # an empty string here means all files in the project
