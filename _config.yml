@@ -1,7 +1,6 @@
 title: Yeti Tools
 remote_theme: just-the-docs/just-the-docs
 description: De tools voor het bestuur
-baseurl: "/docs"
 permalink: pretty
 search_enabled: true
 lsi: false
@@ -14,13 +13,3 @@ gist:
 kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
-defaults:
-  - scope:
-      path: "" # an empty string here means all files in the project
-      type: "default"
-    values:
-      layout: "docs"
-  - scope:
-      path: "assets/img"
-    values:
-      image: true
