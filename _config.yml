@@ -1,4 +1,5 @@
 title: Yeti Tools
+remote_theme: just-the-docs/just-the-docs
 description: De tools voor het bestuur
 baseurl: "/docs"
 permalink: pretty
@@ -13,7 +14,6 @@ gist:
 kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
-remote_theme: just-the-docs/just-the-docs
 defaults:
   - scope:
       path: "" # an empty string here means all files in the project
